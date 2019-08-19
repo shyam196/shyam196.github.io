@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>7 | Shyam Tailor</title>
+    <link>https://shyam196.github.io/publication_types/7/</link>
+      <atom:link href="https://shyam196.github.io/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
+    <description>7</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 30 May 2019 11:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://shyam196.github.io/img/icon-192.png</url>
+      <title>7</title>
+      <link>https://shyam196.github.io/publication_types/7/</link>
+    </image>
+    
+    <item>
+      <title>Continuous Auscultation in the Wild</title>
+      <link>https://shyam196.github.io/publication/master_dissertation/</link>
+      <pubDate>Thu, 30 May 2019 11:00:00 +0100</pubDate>
+      <guid>https://shyam196.github.io/publication/master_dissertation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anonymous Proximity Beacons from Smartphones</title>
+      <link>https://shyam196.github.io/publication/bachelor_dissertation/</link>
+      <pubDate>Sun, 13 May 2018 22:11:00 +0100</pubDate>
+      <guid>https://shyam196.github.io/publication/bachelor_dissertation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

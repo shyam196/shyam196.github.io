@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publication_types | Shyam Tailor</title>
+    <link>https://shyam196.github.io/publication_types/</link>
+      <atom:link href="https://shyam196.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publication_types</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 18 Aug 2019 22:24:58 +0100</lastBuildDate>
+    <image>
+      <url>https://shyam196.github.io/img/icon-192.png</url>
+      <title>Publication_types</title>
+      <link>https://shyam196.github.io/publication_types/</link>
+    </image>
+    
+    <item>
+      <title>0</title>
+      <link>https://shyam196.github.io/publication_types/0/</link>
+      <pubDate>Sun, 18 Aug 2019 22:24:58 +0100</pubDate>
+      <guid>https://shyam196.github.io/publication_types/0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>7</title>
+      <link>https://shyam196.github.io/publication_types/7/</link>
+      <pubDate>Thu, 30 May 2019 11:00:00 +0100</pubDate>
+      <guid>https://shyam196.github.io/publication_types/7/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
