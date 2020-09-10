@@ -5,12 +5,20 @@
     <link>https://shyam196.github.io/publication_types/1/</link>
       <atom:link href="https://shyam196.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 03 Mar 2020 11:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 03 Jun 2020 11:00:00 +0100</lastBuildDate>
     <image>
       <url>https://shyam196.github.io/img/icon-192.png</url>
       <title>1</title>
       <link>https://shyam196.github.io/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>Degree-Quant: Quantization-Aware Training for Graph Neural Networks</title>
+      <link>https://shyam196.github.io/publication/degree_quant/</link>
+      <pubDate>Wed, 03 Jun 2020 11:00:00 +0100</pubDate>
+      <guid>https://shyam196.github.io/publication/degree_quant/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Are Accelerometers for Activity Recognition a Dead-End?</title>
