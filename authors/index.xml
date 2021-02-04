@@ -17,8 +17,11 @@
       <link>https://shyam196.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://shyam196.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;I am a PhD student in Machine Learning at the University of Cambridge, having started in October 2019. The first year of my PhD was spent at Oxford, before I moved with the rest of my research group to Cambridge.&lt;/p&gt;
-&lt;p&gt;I am a member of the Machine Learning Systems group in the Computer Science department, where I am supervised by Professor Nic Lane. As an undergraduate and master&#39;s student, I worked with Dr Robert Harle and Professor Cecilia Mascolo on two projects related to pervasive computation and wearable devices. Most recently, I worked at Facebook&#39;s London office during the summer of 2018.&lt;/p&gt;
+      <description>&lt;p&gt;I am a 2nd year PhD student in Machine Learning at the University of Cambridge, having started in October 2019. I am a member of the Machine Learning Systems group in the Computer Science department, where I am supervised by Dr Nic Lane.&lt;/p&gt;
+&lt;p&gt;My research interests focus on enabling edge devices to reason from data efficiently. The research in my PhD so far has focused on enabling efficient inference for graph neural networks (GNNs), which have a variety of useful applications which are currently not viable for edge platforms.
+I am interested in hardware-software co-design techniques, systems challenges, and applications.&lt;/p&gt;
+&lt;p&gt;My Bachelor&#39;s dissertation with Dr Robert Harle investigated anonymous human proximity detection techniques for smartphones; similar approaches are now used for COVID-19 contact tracing.
+In my Master&#39;s dissertation, with Professor Cecilia Mascolo, I focused on building devices that can listen to your body, and won a highly commended award from the department, and a best paper award at the WellComp workshop at Ubicomp 2020.&lt;/p&gt;
 </description>
     </item>
     
