@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="This work is the first studying quantization for graph neural networks. We show that it is possible to train networks that use low-precision integer arithmetic at inference time, resulting in substantially lower memory usage, while causing little or no loss in accuracy in many cases.">
+  <meta name="description" content="We show that it is possible to train graph neural networks that achieve state of the art accuracy, despite having memory usage and operation count proportional to the number of vertices in the graph--not the number of edges, as is the case with previous state of the art.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://shyam196.github.io/publication/degree_quant/">
+  <link rel="alternate" hreflang="en-us" href="https://shyam196.github.io/publication/egc/">
 
   
 
@@ -96,7 +96,7 @@
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://shyam196.github.io/publication/degree_quant/">
+  <link rel="canonical" href="https://shyam196.github.io/publication/egc/">
 
   
   
@@ -108,15 +108,15 @@
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Shyam Tailor">
-  <meta property="og:url" content="https://shyam196.github.io/publication/degree_quant/">
-  <meta property="og:title" content="Degree-Quant: Quantization-Aware Training for Graph Neural Networks | Shyam Tailor">
-  <meta property="og:description" content="This work is the first studying quantization for graph neural networks. We show that it is possible to train networks that use low-precision integer arithmetic at inference time, resulting in substantially lower memory usage, while causing little or no loss in accuracy in many cases."><meta property="og:image" content="https://shyam196.github.io/publication/degree_quant/featured.png">
-  <meta property="twitter:image" content="https://shyam196.github.io/publication/degree_quant/featured.png"><meta property="og:locale" content="en-us">
+  <meta property="og:url" content="https://shyam196.github.io/publication/egc/">
+  <meta property="og:title" content="Adaptive Filters and Aggregator Fusion for Efficient Graph Convolutions | Shyam Tailor">
+  <meta property="og:description" content="We show that it is possible to train graph neural networks that achieve state of the art accuracy, despite having memory usage and operation count proportional to the number of vertices in the graph--not the number of edges, as is the case with previous state of the art."><meta property="og:image" content="https://shyam196.github.io/publication/egc/featured.png">
+  <meta property="twitter:image" content="https://shyam196.github.io/publication/egc/featured.png"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2019-08-19T22:14:56&#43;01:00">
+      <meta property="article:published_time" content="2021-03-01T22:14:56&#43;01:00">
     
-    <meta property="article:modified_time" content="2020-06-03T11:00:00&#43;01:00">
+    <meta property="article:modified_time" content="2021-03-01T11:00:00&#43;01:00">
   
 
   
@@ -128,7 +128,7 @@
 
 
 
-  <title>Degree-Quant: Quantization-Aware Training for Graph Neural Networks | Shyam Tailor</title>
+  <title>Adaptive Filters and Aggregator Fusion for Efficient Graph Convolutions | Shyam Tailor</title>
 
 </head>
 
@@ -349,7 +349,7 @@
 
 
 <div class="article-container pt-3">
-  <h1 itemprop="name">Degree-Quant: Quantization-Aware Training for Graph Neural Networks</h1>
+  <h1 itemprop="name">Adaptive Filters and Aggregator Fusion for Efficient Graph Convolutions</h1>
 
   
 
@@ -357,8 +357,8 @@
 
 
 
-<meta content="2020-06-03 11:00:00 &#43;0100 BST" itemprop="datePublished">
-<meta content="2020-06-03 11:00:00 &#43;0100 BST" itemprop="dateModified">
+<meta content="2021-03-01 11:00:00 &#43;0100 &#43;0100" itemprop="datePublished">
+<meta content="2021-03-01 11:00:00 &#43;0100 &#43;0100" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -371,7 +371,7 @@
     
       
     
-    <time>June 2020</time>
+    <time>March 2021</time>
   </span>
   
 
@@ -424,7 +424,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="/publication/degree_quant/degree_quant.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="/publication/egc/egc.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -435,7 +435,7 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/camlsys/degree-quant" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/shyam196/egc" target="_blank" rel="noopener">
   Code
 </a>
 
@@ -451,6 +451,22 @@
 
 
 
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="https://mlsys.cst.cam.ac.uk/research/egc/" target="_blank" rel="noopener">
+    
+    Blog Post
+  </a>
+
 
 </div>
 
@@ -458,9 +474,9 @@
 </div>
 
 
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 277px;">
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 305px;">
   <div style="position: relative">
-    <img src="/publication/degree_quant/featured_hu8b718cc1438b24577d8362159696eb40_187779_720x0_resize_lanczos_2.png" alt="" class="featured-image">
+    <img src="/publication/egc/featured_hu1fca907a959f99b06e545aa5d0c493b0_217356_720x0_resize_lanczos_2.png" alt="" class="featured-image">
     
   </div>
 </div>
@@ -471,7 +487,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">Graph neural networks have demonstrated strong performance modelling non-uniform structured data. However, there exists little research exploring methods to make them more efficient at inference time. In this work, we explore the viability of training quantized GNNs models, enabling the usage of low precision integer arithmetic for inference. We propose a method, Degree-Quant, to improve performance over existing quantizationaware training baselines commonly used on other architectures, such as CNNs. Our work demonstrates that it is possible to train models using 8-bit integer arithmetic at inference-time with similar accuracy to their full precision counterparts.</p>
+    <p class="pub-abstract" itemprop="text">Training and deploying graph neural networks (GNNs) remains difficult due to their high memory consumption and inference latency. In this work we present a new type of GNN architecture that achieves state-of-the-art performance with lower memory consumption and latency, along with characteristics suited to accelerator implementation. Our proposal uses memory proportional to the number of vertices in the graph, in contrast to competing methods which require memory proportional to the number of edges; we find our efficient approach actually achieves higher accuracy than competing approaches across 5 large and varied datasets against strong baselines. We achieve our results by using a novel adaptive filtering approach inspired by signal processing; it can be interpreted as enabling each vertex to have its own weight matrix, and is not related to attention. Following our focus on efficient hardware usage, we propose 	extit{aggregator fusion}, a technique to enable GNNs to significantly boost their representational power, with only a small increase in latency of 19% over standard sparse matrix multiplication.</p>
     
 
     
@@ -483,8 +499,8 @@
           <div class="col-12 col-md-9">
             
             
-            <a href="/publication/#1">
-              Conference paper
+            <a href="/publication/#3">
+              Preprint
             </a>
             
           </div>
@@ -501,7 +517,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">Degree-Quant: Quantization-Aware Training for Graph Neural Networks</div>
+          <div class="col-12 col-md-9">Adaptive Filters and Aggregator Fusion for Efficient Graph Convolutions</div>
         </div>
       </div>
       <div class="col-md-1"></div>
